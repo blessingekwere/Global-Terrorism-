@@ -3,17 +3,16 @@
 *Photo Source: Google*
 
 ## Overview
-In a world faced with the persistent threat of terrorism, gaining a deep understanding of its dynamics is crucial for fostering global security and promoting peace. Our project aims to conduct an extensive analysis of the Global Terrorism Dataset, spanning from 1970 to 2020, in order to unravel hidden patterns, explore underlying causes, and assess the far-reaching impacts of terrorist activities worldwide.
+In a world faced with the persistent threat of terrorism, gaining a deep understanding of its dynamics is crucial for fostering global security and promoting peace. This project aims to conduct an extensive analysis of the global terrorism dataset, spanning from 1970 to 2020, in order to unravel hidden patterns and the far-reaching impacts of terrorist activities worldwide.
 
-Analyzing global terrorism data is a complex and critical task that requires a thorough examination and comprehension of various factors contributing to acts of terror across the globe. Through this project, we aim to derive insights, identify patterns, and uncover trends related to this global menace by examining data spanning over five decades. Our goal is to shed light on the evolution, characteristics, and root causes of terrorism, providing valuable insights for policymakers, security agencies, and
-researchers.
+Analyzing global terrorism data is a complex and critical task that requires a thorough examination and comprehension of the acts of terror across the globe. This project aims at deriving insights, identifying patterns, and uncovering trends related to this global menace by examining data spanning over five decades. The goal is to shed light on the evolution and characteristics of terrorism, providing valuable insights for policy makers, security agencies, and researchers.
 
-![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/e195d37c-b4e0-47a4-9967-1411fd798b11.jpg)
+![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/97731742-f021-4240-b328-3276da8f3996.jpg)
 *Photo Source: Google*
 
 
 ## Problem Statement
-The issue of global terrorism remains a persistent and escalating concern for nations worldwide, significantly impacting the lives of millions and posing substantial challenges to global peace and security. To effectively address this issue, it is crucial to develop a profound understanding of the dynamics, trends, and underlying causes driving terrorism. However, the vast amount of data associated with global terrorism makes it challenging to extract meaningful insights and patterns without the aid of advanced data analysis techniques.
+The issue of global terrorism remains a persistent and escalating concern for nations worldwide, significantly impacting the lives of millions and posing substantial challenges to global peace and security. To effectively address this issue, it is crucial to develop a profound understanding of the dynamics and trends driving terrorism. However, the vast amount of data associated with global terrorism makes it challenging to extract meaningful insights and patterns without the aid of advanced data analysis techniques.
 
 The primary problem this project aims to address is the need to analyze and make sense of the extensive global terrorism dataset from 1970 to 2020. This dataset comprises detailed information on thousands of terrorist incidents, including data on perpetrators, targets, methods used, locations, and the socio-political context surrounding each event. The challenge lies in efficiently processing, analyzing, and extracting relevant information from this vast dataset to derive actionable insights. This analysis aims to answer important questions regarding global terrorism:
 
@@ -35,7 +34,7 @@ Addressing these questions will not only contribute to academic research but wil
 
 
 ## Data Sourcing:
- The dataset was downloaded from Kaggle. Kindly find the link to the dataset [here](https://www.kaggle.com/datasets/sarfarazsheikh/global-terrorism-data-gtd-19702020)
+ The dataset was downloaded from Kaggle. Kindly find the link to the original dataset [here](https://www.kaggle.com/datasets/sarfarazsheikh/global-terrorism-data-gtd-19702020)
 
 ## About the Dataset
 The Global Terrorism Database (GTD) dataset contains a comprehensive record of terrorist incidents worldwide from 1970 to 2020. The dataset includes numerous columns describing different aspects of each incident. It contains 135 columns and 209707 rows. Below is a column description for some columns in the GTD dataset:
