@@ -1,6 +1,6 @@
 # Global-Terrorism
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/3d9c078e-2956-4a17-887b-be3ae7efb982.jpg)
-##### Data Source:Google
+*Photo Source: Google*
 
 ## Overview
 In a world faced with the persistent threat of terrorism, gaining a deep understanding of its dynamics is crucial for fostering global security and promoting peace. Our project aims to conduct an extensive analysis of the Global Terrorism Dataset, spanning from 1970 to 2020, in order to unravel hidden patterns, explore underlying causes, and assess the far-reaching impacts of terrorist activities worldwide.
@@ -9,7 +9,7 @@ Analyzing global terrorism data is a complex and critical task that requires a t
 researchers.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/e195d37c-b4e0-47a4-9967-1411fd798b11.jpg)
-##### Data Source:Google
+*Photo Source: Google*
 
 
 ## Problem Statement
@@ -31,7 +31,7 @@ Addressing these questions will provide valuable insights into global terrorism,
 Addressing these questions will not only contribute to academic research but will also provide practical insights for counter-terrorism efforts, policy formulation, and security strategies. The outcomes of this project will help stakeholders gain a comprehensive understanding of the nature of global terrorism, enabling the development of effective preventive measures and interventions to mitigate the threat and promote global stability.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/e195d37c-b4e0-47a4-9967-1411fd798b11.jpg)
-##### Data Source:Google
+*Photo Source: Google*
 
 
 ## Data Sourcing:
@@ -41,6 +41,7 @@ Addressing these questions will not only contribute to academic research but wil
 The Global Terrorism Database (GTD) dataset contains a comprehensive record of terrorist incidents worldwide from 1970 to 2020. The dataset includes numerous columns describing different aspects of each incident. It contains 135 columns and 209707 rows. Below is a column description for some columns in the GTD dataset:
 
 ## Tool Used: Power BI
+
 ## Data Preprocessing
 After downloading the dataset onto my local machine, I proceeded to load it into Power BI desktop for analysis. During the initial examination, I observed several noteworthy aspects of the dataset:
 
@@ -57,7 +58,7 @@ By recognizing these issues within the dataset, it is essential to take correcti
 ## Data Cleaning
 * After successfully loading the dataset into Power BI desktop, I previewed it and identified the need for transformations to prepare it for further analysis. To begin the transformation process, I clicked on the transform button, which opened the Power Query Editor.
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Screenshot%20(184).png)
-#### *Loading the datset into PowerBI desktop before proceeding to power query editor*
+*Loading the datset into PowerBI desktop before proceeding to power query editor*
 
 * In the Power Query Editor, I took the precaution of duplicating the dataset (although not a standard procedure) and disabled one of the duplicates from loading and refreshing. I then proceeded to rename the duplicated dataset, ensuring clarity in the subsequent steps of the transformation process.
 
@@ -65,17 +66,17 @@ By recognizing these issues within the dataset, it is essential to take correcti
 
 * To ensure consistency and clarity, I made replacements in the 'extended,' 'suicide,' and 'success' columns. Specifically, I substituted '1' with 'Yes' and '0' with 'No' to accurately represent the corresponding values in these columns. This modification enhances readability and facilitates a better understanding of the dataset.
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Screenshot%20(185)%20-%20Copy.png)
-#### *Using replace values command to replace values*
+*Using replace values command to replace values*
 
 * One particular issue I noticed was that the day, month, and year information were separated into individual columns and not properly formatted. To rectify this, I merged these columns to form a single date column and ensured the correct formatting.
 
 * Additionally, I extracted values for the year,month name and number from the date column since I required this information for my analysis. Instead of creating a separate calendar table, I utilized the existing date column for this purpose.
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Screenshot%20(186)%20-%20Copy.png)
-#### *Extracting values for year,month name and month number from the date column*
+*Extracting values for year,month name and month number from the date column*
 
 * To further enhance the analysis, I created a date range column using the conditional column command. This allowed me to group the dates into meaningful intervals such as '1970-1980,' '1981-1990,' '1991-2000,' '2001-2010,' and '2011-2020,' facilitating temporal analysis.
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Screenshot%20(188).png)
-#### *Creating a year range column using conditional column*
+*Creating a year range column using conditional column*
 
 * Regarding the "number of perpetrators" column, I noticed the presence of a placeholder value (-99). To ensure accurate analysis, I applied a filter to exclude this placeholder value when examining the number of perpetrators involved in each incident.
 
@@ -144,53 +145,53 @@ As mentioned earlier, the original dataset contained 135 columns and 209,707 row
 
 * Based on the analysis of attack success rates, it was found that 88.38% of attacks in the dataset were classified as successful, while 11.64% of attacks were categorized as not successful. These findings highlight the significant proportion of successful attacks, indicating the effectiveness of terrorist operations in achieving their objectives.
 
-![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Attacks%20by%20success%20status.png)
-#### *Attacks by success status*
+ ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Attacks%20by%20success%20status.png)
+*Attacks by success status*
 
 * Furthermore, when examining attack durations, it was observed that 5.15% of attacks extended beyond 24 hours, while the majority of attacks, accounting for 94.85%, did not exceed the 24-hour mark. This analysis emphasizes that the majority of attacks were relatively short-lived, with a vast majority resolved within 24 hours.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Attacks%20by%20duration.png)
-#### *Attacks by duration*
+*Attacks by duration*
 
 * Analyzing the top 5 countries based on attack frequency within different time periods, Afghanistan had 4 attacks between 1970 and 1980, while Colombia recorded 560 attacks, India recorded 34 attacks, Iraq recorded 12 attacks, and Pakistan recorded 18 attacks. The numbers increased in subsequent decades, with Afghanistan, Colombia, India, Iraq, and Pakistan experiencing varying levels of attacks.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Top%205%20countries%20by%20attack%20and%20year.png)
-#### *Top 5 countries by attack and year*
+*Top 5 countries by attack and year*
 
 * The most targeted groups based on the number of attacks were private citizens and property (51,985 attacks), followed by the military (34,131 attacks), police (28,568 attacks), government (23,828 attacks), and businesses (22,169 attacks).
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Attacks%20by%20target.png)
-#### *Attacks by target*
+*Attacks by target*
 
 * Examining the top 5 groups claiming responsibility for attacks, the group categorized as "unknown" caused the highest number of casualties, with 111,570 deaths and 220,321 injuries. Other notable groups include the Taliban, Islamic State of Iraq and Levant (ISIL), Boko Haram, and Shining Path.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Number%20killed%20and%20injured%20by%20top%205%20groups.png)
-#### *Number killed and injured by top 5 terrorist groups*
+*Number killed and injured by top 5 terrorist groups*
 
 * Attacks varied by year, with 1970 seeing 651 attacks, 1980 witnessing 2,661 attacks, and 2014 reaching the highest point with 16,960 attacks. The lowest number of attacks occurred in 1971, with 471 incidents.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Attacks%20by%20year.png)
-#### *Attacks by year*
+*Attacks by year*
 
 * Bombing/Explosion was the most deadly attack type, resulting in 157,418 deaths and 330,713 injuries. Unarmed Assault had the lowest death toll (849). Bombing/Explosion accounted for 38.73% of the total number of deaths.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Number%20killed%20and%20injured%20by%20attack%20type.png)
-#### *Number killed and injured by attack type*
+*Number killed and injured by attack type*
 
 * Weapon type analysis showed that explosive-based attacks caused the highest number of fatalities (171,453) and injuries (417,940). Firearms and unknown weapons were also responsible for significant casualties.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Number%20killed%20and%20injured%20by%20top%205%20weapon%20type.png)
-#### *Number killed and injured by top 5 weapon type*
+*Number killed and injured by top 5 weapon type*
 
 * Armed Assault had the highest number of perpetrators (358,320), followed by Facility/Infrastructure Attack (329,638). Hijacking had the fewest perpetrators (3,156).
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Number%20of%20perpetrators%20by%20attack%20type.png)
-#### *Attack type by number of perpetrators*
+*Attack type by number of perpetrators*
 
 * Bombing/Explosion had the highest count of successful attacks (85,848), while Hijacking had the lowest count (676). Bombing/Explosion accounted for 46.33% of the total count of successful attacks.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Successful%20attacks%20by%20attack%20type.png)
-#### *Successful attacks by attack type*
+*Successful attacks by attack type*
 
 These insights provide a glimpse into the global terrorism landscape, highlighting the countries, groups, attack types, and their impacts. Through further analysis, we can gain a deeper understanding of the trends, patterns, and factors driving terrorism, ultimately contributing to more effective prevention and counterterrorism strategies.
 
@@ -198,7 +199,7 @@ These insights provide a glimpse into the global terrorism landscape, highlighti
 Below is the dashboard showing the analysis of global terrorism from 1970-2020. Kindly click [here](https://app.powerbi.com/view?r=eyJrIjoiOTQwNjkzNGUtNjgwYi00MDc4LWFlNWItOGEyMTk4MTFiYTc0IiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9) to interact with the dashboard 
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Global%20Terrorism-1%20(3).jpg)
-#### *Dashboard of the global terrorism attack for year 1970-2020*
+*Dashboard of the global terrorism attack for year 1970-2020*
 
 
 
