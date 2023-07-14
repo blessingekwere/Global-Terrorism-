@@ -233,19 +233,23 @@ Based on the analysis of the global terrorism dataset, the following recommendat
 sharing, foster collaboration, and encourage the exchange of best practices among governments, security agencies, and relevant stakeholders.
 
 ## Conclusion
-The analysis of the global terrorism dataset spanning from 1970 to 2020 has provided valuable insights into the dynamics, trends, and underlying causes of terrorism worldwide. Through rigorous data cleaning, transformation, and exploration, we have uncovered significant findings that contribute to a deeper understanding of this global menace.
+The analysis of the global terrorism dataset spanning from 1970 to 2020 has yielded valuable insights into the dynamics, trends concerning terrorism worldwide. Through meticulous data cleaning, transformation, and exploration, we have uncovered significant findings that deepen our understanding of this global menace.
 
-The refined dataset, consisting of 26 columns and 209,707 rows, ensured data integrity and accuracy for further analysis. By examining the dataset, we identified patterns and trends in terrorism over the past five decades, including changes in tactics, targets, and geographical spread. We also observed the evolution of terrorist groups and ideologies, providing crucial information for policymakers, security agencies, and researchers.
+The refined dataset, comprising 26 columns and 209,707 rows, ensures the integrity and accuracy of the data for further analysis. By examining the dataset, we have identified patterns and trends in terrorism over the past five decades, including targets, weapons used and geographical spread. Moreover, our analysis has shed light on the evolution of terrorist groups, providing crucial information for policymakers, security agencies, and researchers.
 
-Moreover, the analysis shed light on the socio-political factors that contribute to terrorism, allowing for a more comprehensive understanding of its root causes. This understanding can guide the development of effective preventive measures and interventions to mitigate the threat and promote global stability.
+These findings can inform decision-making processes and facilitate informed discussions on global terrorism, ultimately guiding the development of effective preventive measures and interventions to mitigate the threat and promote global stability.
 
-The findings from the analysis have important implications for counter-terrorism efforts and policy formulation. They provide actionable insights for policymakers to design strategies that address the ever-evolving nature of terrorism. The analysis also highlights the need for continued research and collaboration to stay ahead of emerging threats.
+The implications of our analysis are particularly significant for counter-terrorism efforts and policy formulation. They offer actionable insights for policymakers to design strategies that address the ever-changing nature of terrorism. Moreover, the analysis underscores the necessity for ongoing research and collaboration to stay ahead of emerging threats.
 
-The results from this analysis can facilitate decision-making, and foster informed discussions on global terrorism.
+In conclusion, the analysis of the global terrorism dataset has furnished comprehensive insights, revealing patterns and trends that contribute to the collective global efforts in combating terrorism. This analysis serves as a foundation for further research, policy development, and security strategies aimed at fostering global peace and security. Continual analysis and monitoring of global terrorism are vital in order to adapt and respond effectively to this evolving threat.
 
-In conclusion, the analysis of the global terrorism dataset has provided comprehensive insights, patterns, and trends that contribute to the collective efforts in combating terrorism. This analysis serves as a foundation for further research, policy development, and security strategies aimed at promoting global peace and security. It is crucial to continuously analyze and monitor global terrorism to adapt and respond effectively to the evolving nature of this threat.
+By implementing these recommendations, governments, security agencies, and policymakers can strengthen their counterterrorism efforts, safeguard communities, and work towards establishing a safer and more secure global environment.
 
-By implementing these recommendations, governments, security agencies, and policymakers can strengthen their counterterrorism efforts, protect communities, and work towards creating a safer and more secure global environment.
+Thank you for taking your time to go this this project. Your Comments and recommendations will be highly appreciated
+
+Kindly connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-ekwere-857326216) and [Twitter](https://twitter.com/Eddie_Gregs?t=dF3996shVxvPJTePTtxDdw&s=09)
+
+See you next time 😄🤗
 
 
 
