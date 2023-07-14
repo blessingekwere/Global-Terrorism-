@@ -197,7 +197,7 @@ These insights provide a glimpse into the global terrorism landscape, highlighti
 ## Visualization
 Below is the dashboard showing the analysis of global terrorism from 1970-2020. Kindly click [here](https://app.powerbi.com/view?r=eyJrIjoiOTQwNjkzNGUtNjgwYi00MDc4LWFlNWItOGEyMTk4MTFiYTc0IiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9) to interact with the dashboard 
 
-![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Global%20Terrorism-1%20(2).jpg)
+![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Global%20Terrorism-1%20(3).jpg)
 #### *Dashboard of the global terrorism attack for year 1970-2020*
 
 
