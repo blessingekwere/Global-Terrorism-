@@ -37,7 +37,7 @@ Addressing these questions will not only contribute to academic research but wil
  The dataset was downloaded from Kaggle. Kindly find the link to the original dataset [here](https://www.kaggle.com/datasets/sarfarazsheikh/global-terrorism-data-gtd-19702020)
 
 ## About the Dataset
-The Global Terrorism Database (GTD) dataset contains a comprehensive record of terrorist incidents worldwide from 1970 to 2020. The dataset includes numerous columns describing different aspects of each incident. It contains 135 columns and 209707 rows. Below is a column description for some columns in the GTD dataset:
+The Global Terrorism Database (GTD) dataset contains a comprehensive record of terrorist incidents worldwide from 1970 to 2020. The dataset includes numerous columns describing different aspects of each incident. It contains 135 columns and 209707 rows. 
 
 ## Tool Used: Power BI
 
