@@ -142,55 +142,63 @@ As mentioned earlier, the original dataset contained 135 columns and 209,707 row
 ## ANALYSIS 
 * The dataset covers a total of 204 countries and 45,000 cities, with recorded attacks reaching 210,000. Out of these attacks, 185,000 were successful, resulting in 479,000 deaths and 586,000 injuries. The dataset includes information on 4,000 known terrorist groups.
 
-* Based on the analysis of attack success rates, it was found that 88.38% of attacks in the dataset were classified as successful, while 11.64% of attacks were categorized as not successful. These findings highlight the significant proportion of successful attacks, indicating the effectiveness of terrorist operations in achieving their objectives.
-
- ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Attacks%20by%20success%20status.png)
+![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Attacks%20by%20success%20status.png)
 *Attacks by success status*
 
-* Furthermore, when examining attack durations, it was observed that 5.15% of attacks extended beyond 24 hours, while the majority of attacks, accounting for 94.85%, did not exceed the 24-hour mark. This analysis emphasizes that the majority of attacks were relatively short-lived, with a vast majority resolved within 24 hours.
+* Based on the analysis of attack success rates, it was found that 88.38% of attacks in the dataset were classified as successful, while 11.64% of attacks were categorized as not successful. These findings highlight the significant proportion of successful attacks, indicating the effectiveness of terrorist operations in achieving their objectives.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Attacks%20by%20duration.png)
 *Attacks by duration*
 
-* Analyzing the top 5 countries based on attack frequency within different time periods, Afghanistan had 4 attacks between 1970 and 1980, while Colombia recorded 560 attacks, India recorded 34 attacks, Iraq recorded 12 attacks, and Pakistan recorded 18 attacks. The numbers increased in subsequent decades, with Afghanistan, Colombia, India, Iraq, and Pakistan experiencing varying levels of attacks.
+* Furthermore, when examining attack durations, it was observed that 5.15% of attacks extended beyond 24 hours, while the majority of attacks, accounting for 94.85%, did not exceed the 24-hour mark. This analysis emphasizes that the majority of attacks were relatively short-lived, with a vast majority resolved within 24 hours.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Top%205%20countries%20by%20attack%20and%20year.png)
 *Top 5 countries by attack and year*
 
-* The most targeted groups based on the number of attacks were private citizens and property (51,985 attacks), followed by the military (34,131 attacks), police (28,568 attacks), government (23,828 attacks), and businesses (22,169 attacks).
+* Analyzing the top 5 countries based on attack frequency within different time periods, Afghanistan had 4 attacks between 1970 and 1980, while Colombia recorded 560 attacks, India recorded 34 attacks, Iraq recorded 12 attacks, and Pakistan recorded 18 attacks. The numbers increased in subsequent decades, with Afghanistan, Colombia, India, Iraq, and Pakistan experiencing varying levels of attacks.
+
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Attacks%20by%20target.png)
 *Attacks by target*
 
-* Examining the top 5 groups claiming responsibility for attacks, the group categorized as "unknown" caused the highest number of casualties, with 111,570 deaths and 220,321 injuries. Other notable groups include the Taliban, Islamic State of Iraq and Levant (ISIL), Boko Haram, and Shining Path.
+* The most targeted groups based on the number of attacks were private citizens and property (51,985 attacks), followed by the military (34,131 attacks), police (28,568 attacks), government (23,828 attacks), and businesses (22,169 attacks).
+
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Number%20killed%20and%20injured%20by%20top%205%20groups.png)
 *Number killed and injured by top 5 terrorist groups*
 
-* Attacks varied by year, with 1970 seeing 651 attacks, 1980 witnessing 2,661 attacks, and 2014 reaching the highest point with 16,960 attacks. The lowest number of attacks occurred in 1971, with 471 incidents.
+* Examining the top 5 groups claiming responsibility for attacks, the group categorized as "unknown" caused the highest number of casualties, with 111,570 deaths and 220,321 injuries. Other notable groups include the Taliban, Islamic State of Iraq and Levant (ISIL), Boko Haram, and Shining Path.
+
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Attacks%20by%20year.png)
 *Attacks by year*
 
-* Bombing/Explosion was the most deadly attack type, resulting in 157,418 deaths and 330,713 injuries. Unarmed Assault had the lowest death toll (849). Bombing/Explosion accounted for 38.73% of the total number of deaths.
+* Attacks varied by year, with 1970 seeing 651 attacks, 1980 witnessing 2,661 attacks, and 2014 reaching the highest point with 16,960 attacks. The lowest number of attacks occurred in 1971, with 471 incidents.
+
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Number%20killed%20and%20injured%20by%20attack%20type.png)
 *Number killed and injured by attack type*
 
-* Weapon type analysis showed that explosive-based attacks caused the highest number of fatalities (171,453) and injuries (417,940). Firearms and unknown weapons were also responsible for significant casualties.
+* Bombing/Explosion was the most deadly attack type, resulting in 157,418 deaths and 330,713 injuries. Unarmed Assault had the lowest death toll (849). Bombing/Explosion accounted for 38.73% of the total number of deaths.
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Number%20killed%20and%20injured%20by%20top%205%20weapon%20type.png)
 *Number killed and injured by top 5 weapon type*
 
-* Armed Assault had the highest number of perpetrators (358,320), followed by Facility/Infrastructure Attack (329,638). Hijacking had the fewest perpetrators (3,156).
+* Weapon type analysis showed that explosive-based attacks caused the highest number of fatalities (171,453) and injuries (417,940). Firearms and unknown weapons were also responsible for significant casualties.
+
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Number%20of%20perpetrators%20by%20attack%20type.png)
 *Attack type by number of perpetrators*
 
-* Bombing/Explosion had the highest count of successful attacks (85,848), while Hijacking had the lowest count (676). Bombing/Explosion accounted for 46.33% of the total count of successful attacks.
+* Armed Assault had the highest number of perpetrators (358,320), followed by Facility/Infrastructure Attack (329,638). Hijacking had the fewest perpetrators (3,156).
+
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/Successful%20attacks%20by%20attack%20type.png)
 *Successful attacks by attack type*
+
+* Bombing/Explosion had the highest count of successful attacks (85,848), while Hijacking had the lowest count (676). Bombing/Explosion accounted for 46.33% of the total count of successful attacks.
+
+
 
 These insights provide a glimpse into the global terrorism landscape, highlighting the countries, groups, attack types, and their impacts. Through further analysis, we can gain a deeper understanding of the trends, patterns, and factors driving terrorism, ultimately contributing to more effective prevention and counterterrorism strategies.
 
