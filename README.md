@@ -3,29 +3,24 @@
 *Photo Source: Google*
 
 ## Overview
-In a world faced with the persistent threat of terrorism, gaining a deep understanding of its dynamics is crucial for fostering global security and promoting peace. This project aims to conduct an extensive analysis of the global terrorism dataset, spanning from 1970 to 2020, in order to unravel hidden patterns and the far-reaching impacts of terrorist activities worldwide.
-
-Analyzing global terrorism data is a complex and critical task that requires a thorough examination and comprehension of the acts of terror across the globe. This project aims at deriving insights, identifying patterns, and uncovering trends related to this global menace by examining data spanning over five decades. The goal is to shed light on the evolution and characteristics of terrorism, providing valuable insights for policy makers, security agencies, and researchers.
+Between 1970 and 2020, the world was faced with a serious problem called global terrorism. Different groups and individuals used violence to pursue their goals, whether political, religious, or social. Some groups wanted to change their countries, while others sought to spread their beliefs worldwide. However, countries and organizations came together to fight against terrorism using different methods including technology to analyze data and track threats. Even today, the fight continues against terrorism, but we hope for a safer world in the future. 
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/97731742-f021-4240-b328-3276da8f3996.jpg)
 *Photo Source: Google*
 
 
 ## Problem Statement
-The issue of global terrorism remains a persistent and escalating concern for nations worldwide, significantly impacting the lives of millions and posing substantial challenges to global peace and security. To effectively address this issue, it is crucial to develop a profound understanding of the dynamics and trends driving terrorism. However, the vast amount of data associated with global terrorism makes it challenging to extract meaningful insights and patterns without the aid of advanced data analysis techniques.
+The primary problem this project aims to address is the need to analyze and make sense of the extensive global terrorism dataset from 1970 to 2020. This dataset comprises detailed information on thousands of terrorist incidents, including data on perpetrators, targets, methods used, locations, and the socio-political context surrounding each event. The challenge lies in efficiently processing, analyzing, and extracting relevant information from this vast dataset to derive actionable insights. This analysis aims to answer important questions regarding global terrorism which are:
 
-The primary problem this project aims to address is the need to analyze and make sense of the extensive global terrorism dataset from 1970 to 2020. This dataset comprises detailed information on thousands of terrorist incidents, including data on perpetrators, targets, methods used, locations, and the socio-political context surrounding each event. The challenge lies in efficiently processing, analyzing, and extracting relevant information from this vast dataset to derive actionable insights. This analysis aims to answer important questions regarding global terrorism:
-
-* Global trends and patterns: What are the trends in terrorism over the past five decades?
-* Evolution of terrorism: How has terrorism evolved in tactics, targets, and geographical spread?
-* Responsible groups: Which groups are mostly responsible for terrorist attacks?
-* Temporal and geographical clusters: Are there significant clusters of terrorist activity?
-* Success rate and duration: What is the success rate of attacks and their durations?
-* Impact on countries: Which countries have been most affected by terrorism?
-* Weapon types: What are the commonly used weapons in these attacks?
-* Claimed responsibility: Which groups have claimed responsibility for attacks?
-* Perpetrators, casualties, and weapons: How many perpetrators, casualties, and what weapon types are involved in attacks?
-Addressing these questions will provide valuable insights into global terrorism, aiding in the development of effective counter-terrorism measures.
+1. Global trends and patterns: What are the trends in terrorism over the past five decades?
+2. Evolution of terrorism: How has terrorism evolved in tactics, targets, and geographical spread?
+3. Responsible groups: Which groups are mostly responsible for terrorist attacks?
+4. Temporal and geographical clusters: Are there significant clusters of terrorist activity?
+5. Success rate and duration: What is the success rate of attacks and their durations?
+6. Impact on countries: Which countries have been most affected by terrorism?
+7. Weapon types: What are the commonly used weapons in these attacks?
+8. Claimed responsibility: Which groups have claimed responsibility for attacks?
+9. Perpetrators, casualties, and weapons: How many perpetrators, casualties, and what weapon types are involved in attacks?
 
 Addressing these questions will not only contribute to academic research but will also provide practical insights for counter-terrorism efforts, policy formulation, and security strategies. The outcomes of this project will help stakeholders gain a comprehensive understanding of the nature of global terrorism, enabling the development of effective preventive measures and interventions to mitigate the threat and promote global stability.
 
