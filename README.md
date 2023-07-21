@@ -3,7 +3,7 @@
 *Photo Source: Google*
 
 ## Overview
-Between 1970 and 2020, the world was faced with a serious problem called global terrorism. Different groups and individuals used violence to pursue their goals, whether political, religious, or social. Some groups wanted to change their countries, while others sought to spread their beliefs worldwide. However, countries and organizations came together to fight against terrorism using different methods including technology to analyze data and track threats. Even today, the fight continues against terrorism, but we hope for a safer world in the future. 
+Between 1970 and 2020, the world has faced a serious problem called global terrorism. Different groups and individuals used violence to pursue their goals, whether political, religious, or social. Some groups wanted to change their countries, while others sought to spread their beliefs worldwide. However, countries and organizations came together to fight against terrorism using different methods including technology to analyze data and track threats. Even today, the fight continues against terrorism, but we hope for a safer world in the future. 
 
 ![](https://github.com/blessingekwere/Global-Terrorism-/blob/main/97731742-f021-4240-b328-3276da8f3996.jpg)
 *Photo Source: Google*
@@ -195,7 +195,7 @@ As mentioned earlier, the original dataset contained 135 columns and 209,707 row
 
 
 
-These insights provide a glimpse into the global terrorism landscape, highlighting the countries, groups, attack types, and their impacts. Through further analysis, we can gain a deeper understanding of the trends, patterns, and factors driving terrorism, ultimately contributing to more effective prevention and counterterrorism strategies.
+These insights provide a glimpse into the global terrorism landscape, highlighting the countries, groups, attack types, and their impacts.
 
 ## Visualization
 Below is the dashboard showing the analysis of global terrorism from 1970-2020. Kindly click [here](https://app.powerbi.com/view?r=eyJrIjoiOTQwNjkzNGUtNjgwYi00MDc4LWFlNWItOGEyMTk4MTFiYTc0IiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9) to interact with the dashboard 
@@ -206,7 +206,7 @@ Below is the dashboard showing the analysis of global terrorism from 1970-2020. 
 
 
 ## Recommendation
-According to estimates, the world population in 1969 was around 3.6 billion people, while as of 2021, it is estimated to be around 7.9 billion people. Please note that these figures are approximate and may vary based on different sources and methodologies but you can find a reference for the world population [here](https://www.macrotrends.net/countries/WLD/world/population) 
+According to estimates, the world population in 1969 was around 3.6 billion people, while as of 2021, it is estimated to be around 7.9 billion people. *Please note that these figures are approximated and may vary based on different sources and methodologies but you can find a reference for the world population [here](https://www.macrotrends.net/countries/WLD/world/population)* 
 
 Global terrorism has undoubtedly affected the population and lives of humans in various ways. The insights from the global terrorism dataset such as the high number of attacks, casualties, and the impact on different groups and regions, highlight the significant consequences of terrorism on human lives and societies. The loss of lives, injuries, and psychological trauma resulting from terrorist attacks have a profound and lasting impact on individuals, families, and communities.
 
